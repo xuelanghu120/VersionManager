@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //第一个版本
         //创建了一个tag
+        //第二个版本
     }
 }
